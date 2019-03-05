@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+
+  header{
+      padding: 25px;
+      margin-bottom: 20px;
+      color: white;
+      background-color: gray;
+
+  }
+
+  footer{
+      padding: 25px;
+      margin-top: 20px;
+      color: white;
+      background-color: gray;
+  }
