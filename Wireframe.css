@@ -4,80 +4,74 @@
     background: gray;
   }
   body{
-      margin-left: 200px;
-      
-      margin-bottom: 150;
+      margin-left: 156px;
+      margin-right: 200px 
   }
-
   header{
       padding: 25px;
       margin-bottom: 10px;
-      height: 42px;
+      height: 85px;
       color: gray;
+      text-align: center;
       background-color: white;
-
   }
-
   nav{
       padding: 25px;
       margin-top: 10px;
       margin-bottom: 10px;
+      height: 85px;
       color: gray;
       background-color: white;
   }
-
   h1, h2, h3{
       display: contents;
       font-size: 21px;
   }
-
   #SectionLeft{
     float: left;
     color: gray;
     background-color: white;
-    width: 60%;
     margin-top: 10px;
-    margin-bottom: 10px;
-    margin-right: 10px;
-    margin-left: 100px;
+    margin-bottom: 20px;
+    height: 349px;
+    width: 55%;
     padding: 60px;
   }
   #article{
-      margin: 10px;
+      margin:10px;
       color: white;
       background-color: gray;
-      padding:50px;
+      width: 400px;
+      height: 200px;
+      margin-left: 10px;
   }
   #headers{
       margin: 10px;
       color: gray;
       background-color: white;
-  
   }
-
   #p{
     margin: 10px;
     color: gray;
     background-color: white; 
   }
-
   #aside{
     float: right;
     color:gray;
     background-color:white;
-    width: 40%;
     margin-top: 10px;
-    margin-bottom: 10px;
-    margin-left: 100;
-    margin-right: 100;
-    padding: 40px;
+    margin-bottom: 20px;
+    width: 43%; 
+    height: 349px;
+    padding: 60px;
   }
-
-
   footer{
-      padding: 25px;
-      margin-top: 10px;
-      color:gray;
-      background-color: white;
-      text-align: center;
+    padding: 25px;
+    margin-top: 10px;
+    margin-bottom: 130px;
+    height: 85px;
+    color:gray;
+    background-color: white;
+    text-align: center;
+    clear: both;
   }
