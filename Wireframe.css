@@ -1,13 +1,14 @@
 * {
     box-sizing: border-box;
     text-align: center;
+    background: gray;
   }
 
   header{
       padding: 25px;
       margin-bottom: 10px;
-      color: white;
-      background-color: gray;
+      color: gray;
+      background-color: white;
 
   }
 
@@ -15,29 +16,40 @@
       padding: 25px;
       margin-top: 10px;
       margin-bottom: 10px;
-      color: white;
-      background-color: gray;
+      color: gray;
+      background-color: white;
   }
 
   #SectionLeft{
     float: left;
-    color: white;
-    background-color: gray;
+    color: gray;
+    background-color: white;
+    width: 50%;
     margin-top: 10px;
-    padding: 30px;
+    margin-bottom: 10px;
+    padding: 60px;
 }
+  #artickle{
+      margin: 10px;
+      color: white;
+      background-color: gray;
+      padding:50px;
+  }
   #aside{
     float: right;
-    color: white;
-    background-color: gray;
+    color:gray;
+    background-color:white;
+    width: 50%;
     margin-top: 10px;
-    padding: 30px;
+    margin-bottom: 10px;
+    padding: 60px;
 }
 
 
   footer{
       padding: 25px;
       margin-top: 10px;
-      color: white;
-      background-color: gray;
+      color:gray;
+      background-color: white;
+      text-align: center;
   }
