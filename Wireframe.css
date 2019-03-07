@@ -5,7 +5,8 @@
   }
   body{
       margin-left: 156px;
-      margin-right: 200px 
+      margin-right: 200px; 
+      margin-bottom: 130px;
   }
   header{
       padding: 25px;
@@ -25,7 +26,7 @@
   }
   h1, h2, h3{
       display: contents;
-      font-size: 21px;
+      font-size: 19px;
   }
   #SectionLeft{
     float: left;
@@ -44,6 +45,8 @@
       width: 400px;
       height: 200px;
       margin-left: 10px;
+      margin-right: 10px;
+      margin-bottom: 10px;
   }
   #headers{
       margin: 10px;
@@ -68,7 +71,6 @@
   footer{
     padding: 25px;
     margin-top: 10px;
-    margin-bottom: 130px;
     height: 85px;
     color:gray;
     background-color: white;
