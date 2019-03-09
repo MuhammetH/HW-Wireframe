@@ -27,6 +27,9 @@
   h1, h2, h3{
       display: contents;
       font-size: 19px;
+      margin-left: 10px;
+      margin-right: 10px;
+      margin-bottom: 10px;
   }
   #SectionLeft{
     float: left;
