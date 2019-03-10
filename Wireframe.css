@@ -39,44 +39,34 @@
       float: left;
       color: white;
       background-color: gray;
-      width: 530px;
+      width: 100%;
       height: 200px;
       margin-left: 10px;
+      margin-top: 30px;
       margin-right: 10px;
       margin-bottom: 10px;
     }
-  #h1,h2,h3{
-        display: contents;
-        font-size: 17px;
-        margin-top: 40px;
-        margin-bottom: 10px;
-        margin-right: 10px;
-        margin-left: 10px;
-        height: 50px;
-        width: 480px;
-        color: grey;
-        background-color: white;
-    }
-    
   #headers{
-      float: left;    
-      margin-top: 10px;
+      float: center;
+      text-align: center;    
+      margin-top: 40px;
       margin-bottom: 10px;
       margin-left: 10px;
       margin-right: 10px;
       height: 50px;
-      width: 480px;
+      width: 90%;
       color: gray;
       background-color: white;
   }
-  
   #p{
-    float: left;
+    float: center;
     text-align: center;
     margin-bottom: 10px;
     margin-top: 10px;
     margin-left: 10px;
     margin-right: 10px;
+    height: 50px;
+    width: 90%;
     color: gray;
     background-color: white; 
   }
